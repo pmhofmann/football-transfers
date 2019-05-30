@@ -1,0 +1,2 @@
+class RumoursController < ApplicationController
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  clubfrom: MyString
+  clubto: MyString
+  fee: 1
+  content: MyText
+  likelihood: 1
+  player: MyString
+
+two:
+  user: two
+  clubfrom: MyString
+  clubto: MyString
+  fee: 1
+  content: MyText
+  likelihood: 1
+  player: MyString
